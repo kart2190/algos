@@ -70,7 +70,7 @@ console.log(sumZero([-11,-5,-4,-3,-2,-1,0,3,4,5,6,9]))
 
 //countUniqueValues
 
-//Given array count the unique values precent in the array
+//Given array count the unique values present in the array
 //Has to be sorted
 
 //Using two pointer approach from the beginning
